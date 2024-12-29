@@ -1,4 +1,4 @@
-<h1 align="center">💻</h1>
+<h1 align="center">Backend PHP Developer💻</h1>
 
 <h3 align="center">Languages</h1>
 <div align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behindthep&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=behindthep&theme=blue&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 <!--
