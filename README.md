@@ -1,14 +1,14 @@
-## Привет! Я Алексей :wave:
+## Привет! Я Алексей 👋
 
-Инженер технической поддержки в банке.
+Инженер технической поддержки в банке.  
 Сейчас я активно развиваюсь в **Java Enterprice-разработке** и автоматизации инфраструктуры.
 
 ---
 
 ### 🔨 Технологический стек & Инструменты
 
-- **Languages:** Java, Bash
-- **Infrastructure & Virtualization:** RED Virtualization, Linux
+- **Languages:** Java, Bash  
+- **Infrastructure & Virtualization:** RED Virtualization, Linux  
 - **Tools & Environments:** Git, INtelliJ IDEA
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -27,16 +27,16 @@
 
 ---
 
-### Что я делаю сейчас:
+### 📈 Что я делаю сейчас:
 - Изучаю core-концепции Java (многопоточнтсть, коллекции, ООП) в рамках курса JavaRush 2025.
 - Автоматизирую рутинные задачи администрирвоания РЕД Виртуализации.
 - Изучаю изнутри архитектуру автоматизированной банковской системы ЦФТ и логику интеграции данных.
 
 ---
 
-### Моя Github статистика
+### 📊 Моя Github статистика
 [![Статистика](https://github-readme-stats.vercel.app/api?username=behindthep&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&border_color=013220&icon_color=013220&theme=dark#gh-dark-mode-only)](https://github.com/behindthep/github-readme-stats#gh-dark-mode-only)
 ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=behindthep&layout=compact&border_color=013220&theme=dark#gh-dark-mode-only)
 
 ---
-**Как со мной связаться:** <a href="https://t.me/behindthep" target="_blank">Telegram</a>
+📮 **Как со мной связаться:** [<a href="https://t.me/behindthep" target="_blank">Telegram</a>]
