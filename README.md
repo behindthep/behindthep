@@ -1,15 +1,14 @@
-## Привет! Я Алексей 👋
+## Привет, я Алексей
+Инженер-программист в банке.  
+Развиваюсь в **Java Enterprice-разработке** и автоматизации инфраструктуры.
 
-Инженер технической поддержки в банке.  
-Сейчас я активно развиваюсь в **Java Enterprice-разработке** и автоматизации инфраструктуры.
+Изучаю:
+- RED Virtualization;
+- Core-концепции Java (многопоточнтсть, коллекции, ООП) в рамках курса JavaRush 2025;
+- Автоматизация рутинные задачи администрирвоания РЕД Виртуализации;
+- Архитектура автоматизированной банковской системы ЦФТ и логику интеграции данных.
 
 ---
-
-### 🔨 Технологический стек & Инструменты
-
-- **Languages:** Java, Bash  
-- **Infrastructure & Virtualization:** RED Virtualization, Linux  
-- **Tools & Environments:** Git, INtelliJ IDEA
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -25,18 +24,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### 📈 Что я делаю сейчас:
-- Изучаю core-концепции Java (многопоточнтсть, коллекции, ООП) в рамках курса JavaRush 2025.
-- Автоматизирую рутинные задачи администрирвоания РЕД Виртуализации.
-- Изучаю изнутри архитектуру автоматизированной банковской системы ЦФТ и логику интеграции данных.
+[![Statistics](https://github-readme-stats.vercel.app/api?username=behindthep&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&border_color=013220&icon_color=013220&theme=dark#gh-dark-mode-only)](https://github.com/behindthep/github-readme-stats#gh-dark-mode-only)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behindthep&layout=compact&border_color=013220&theme=dark#gh-dark-mode-only)
 
 ---
 
-### 📊 Моя Github статистика
-[![Статистика](https://github-readme-stats.vercel.app/api?username=behindthep&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&border_color=013220&icon_color=013220&theme=dark#gh-dark-mode-only)](https://github.com/behindthep/github-readme-stats#gh-dark-mode-only)
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=behindthep&layout=compact&border_color=013220&theme=dark#gh-dark-mode-only)
-
----
-📮 **Как со мной связаться:** [<a href="https://t.me/behindthep" target="_blank">Telegram</a>]
+**Как со мной связаться:** <a href="https://t.me/behindthep" target="_blank">Telegram</a>
