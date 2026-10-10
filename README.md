@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Alex
 
-<!--
-**behindthep/behindthep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer based in Russia, currently focusing on high-performance backend development with Go and banking systems architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Experience
+* **Software Engineer at Banking Sector**
+  * Focus: Operating and administrating core banking systems (ABS CFT / АБС ЦФТ).
+  * Tasks: System administration, integration, and internal technical workflow optimization.
+
+### Pet Projects & Education
+* **[Go-Roadmap](https://github.com/behindthep/go-roadmap)** — My personal learning hub for Golang. 
+  * Tracking language patterns, solving algorithmic challenges, and structuring fundamental notes.
+
+---
+
+### Tech Stack & Tools
+* **Languages:** Go (Golang), SQL
+* **Domain Knowledge:** Core Banking Systems (CFT), Backend Architecture, Linux Administration
+* **Platforms:** LeetCode (Algorithm training)
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
+</picture>
+
+---
+
+### Connect with me
+* **Telegram:** [@behindthep](https://t.me/behindthep)
+* **LeetCode:** [Profile Link](https://leetcode.com/u/behindthep/)
