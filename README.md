@@ -1,4 +1,4 @@
-# Hi, I'm Alex
+## Hi, I'm Alex
 
 Backend Engineer based in Russia, currently focusing on high-performance backend development with Go and banking systems architecture.
 
