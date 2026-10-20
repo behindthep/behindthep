@@ -1,8 +1,7 @@
 ### Hi, I'm Alexey
 
 **Software Engineer at Banking Sector**
-  * Focus: Operating and administrating core banking systems (ABS CFT / АБС ЦФТ).
-  * Tasks: System administration, integration, and internal technical workflow optimization.
+  * Operating and administrating core banking system (ABS CFT).
 
 Currently learning backend development in Go.
 
