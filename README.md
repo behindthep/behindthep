@@ -7,4 +7,4 @@ Currently learning backend development in Go.
 
 ---
 
-**Telegram:** @behindthep | [LeetCode](https://leetcode.com/u/behindthep/)
+**Telegram:** @behindthep | [Codewars](https://www.codewars.com/users/behindthep) | [LeetCode](https://leetcode.com/u/behindthep/)
